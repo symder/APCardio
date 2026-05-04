@@ -1,86 +1,152 @@
 [
   {
-    "question": "Two or more diseases or conditions in a patient is refered to as:",
-    "choices": ["Sequela", "Comorbidity", "Prevalence", "Complication"],
+    "question": "What is a primary function of the cardiovascular system?",
+    "choices": ["Producing hormones only", "Transporting oxygen, nutrients, and wastes", "Breaking down food", "Storing calcium"],
     "correctIndex": 1,
-    "feedback": "Comorbidity is correct."
+    "feedback": "The cardiovascular system transports oxygen, nutrients, hormones, and wastes throughout the body."
   },
   {
-    "question": "An epidemic is a global disease outbreak.",
-    "choices": ["True", "False"],
+    "question": "What is the role of the right side of the heart?",
+    "choices": ["Pumps oxygenated blood to the body", "Pumps deoxygenated blood to the lungs", "Regulates blood pressure", "Filters blood"],
     "correctIndex": 1,
-    "feedback": "Pandemic is Global, Epidemic is Widespread (eg. Country)"
+    "feedback": "The right side of the heart sends deoxygenated blood to the lungs for oxygenation."
   },
   {
-    "question": "A client is complaining about neck pain that started when they woke up this morning. This is an example of an:",
-    "choices": ["Acute Condition", "Subacute Condition", "Chronic Condition", "Systemic Condition"],
-    "correctIndex": 0,
-    "feedback": "Acute is a condition that suddenly develops."
-  },
-  {
-    "question": "A client is complaining about soreness in their forearm. During assessment you can't see any redness or bruising in the area. This is an example of a Sign of a condition.",
-    "choices": ["True", "False"],
-    "correctIndex": 1,
-    "feedback": "A Sign is an objectively observable indication, whereas a Symptom is subjective and can't be seen"
-  },
-  {
-    "question": "Arthropods are an example of:",
-    "choices": ["Virus", "Bacteria", "Fungi", "Animal Parasite"],
-    "correctIndex": 3,
-    "feedback": "Example of Arthropods include Lice and Mites, which are Animal Parasites"
-  },
-  {
-    "question": "Itchiness is a common symptom of Mites of Lice.",
-    "choices": ["True", "False"],
-    "correctIndex": 0,
-    "feedback": "Redness from the itching can be a sign as well."
-  },
-  {
-    "question": "Which of these is an example of a Bacterial infection:",
-    "choices": ["Tinea Cruris", "Eczema Herpeticum", "Epidermodysplasia", "Cellulitis"],
-    "correctIndex": 3,
-    "feedback": "Tinea = Fungal, Eczema Herpeticum is a form of Herpes (Herpe), Epidermodysplasia is a genetic disease causing warts"
-  },
-  {
-    "question": "Which of these is the correct Chain of Transmission:",
-    "choices": ["Infectious Agent, Reservoir, Portal of Exit, Mode of Transmission, Portal of Entry, Susceptible Host", "Infectious Agent, Portal of Exit, Reservoir, Portal of Entry, Mode of Transmission, Susceptible Host", "Infectious Agent, Portal of Exit, Reservoir, Mode of Transmission, Susceptible Host", "Infectious Agent, Reservoir, Portal of Exit, Portal of Entry, Mode of Transmission, Susceptible Host"],
-    "correctIndex": 0,
-    "feedback": "For infection to spread, you need an INFECTION, which needs a RESERVOIR to live and grow in (eg. Human), a way to Spread of Leave the reservoir (PORTAL OF EXIT), A MODE OF TRANSPORTATION to get to a new host (Contact, Droplet, or Airborne), a way to enter the new host like a cut or breathing it in (PORTAL OF ENTRY), and a SUSCEPTIBLE HOST to infect, who may be vulnerable for a varity of reasons"
-  },
-  {
-    "question": "What best describes the role of Health Canada?:",
-    "choices": ["Improve health of Canadians by addressing health priorities through science, innovation, service delivery and collaborative action", "Enable informed decisions that protect and promote health and contribute to reducing health inequalities", "Coordinate infection prevention", "Help Canadians improve and maintain their health"],
-    "correctIndex": 3,
-    "feedback": "Health Canada = Improve and Maintain Health, Public Health Ontario = Enable informed decision, Regional Infection Control Networks (RICN) = Coordinate Infection Prevention, Public Health Agency of Canada = Improve health of Canadians by addressing health priorities through science, innovation, service delivery and collaborative action "
-  },
-  {
-    "question": "The removal of soil through manual or mechanical means is a definition of:",
-    "choices": ["Cleaning", "Disinfection", "Sterilization", "Sanitation"],
-    "correctIndex": 0,
-    "feedback": "Cleaning is the answer. Disinfection involves chemical/physical agents. Sterilization involves Baking or Pressurized cleaning, and Sanitation is the use of measures (eg. Cleaning/Disinfection/Sterilization) designed to promote health and prevent disease."
-  },
-    {
-    "question": "Which of these is not a typical mode of transmission for a disease?",
-    "choices": ["Sweat", "Synovial Fluid", "Blood", "Amniotic Fluid"],
-    "correctIndex": 0,
-    "feedback": "Sweat is not typically a transmission method."
-  },
-  {
-    "question": "Staphylococci is an example of a:",
-    "choices": ["Virus", "Fungi", "Bacteria", "Herpes"],
+    "question": "Which blood vessels contain the largest amount of circulating blood?",
+    "choices": ["Arteries", "Capillaries", "Veins", "Arterioles"],
     "correctIndex": 2,
-    "feedback": "Coccus is the singular term for a sperical bacterium. Cocci is the plural form."
+    "feedback": "Veins act as blood reservoirs and hold the majority of blood volume."
   },
   {
-    "question": "Prevalence refers to the number of new cases of a disease during a specific period within a specific population.",
-    "choices": ["True", "False"],
+    "question": "What is systemic vascular resistance (SVR)?",
+    "choices": ["The volume of blood in the arteries", "The resistance blood encounters in systemic circulation", "The force of heart contraction", "The oxygen level in blood"],
     "correctIndex": 1,
-    "feedback": "Prevalence is the number of cases that exist within a population during a specific period or moment, Incidence is the number of new cases."
+    "feedback": "SVR refers to the resistance blood faces as it flows through systemic vessels."
   },
   {
-    "question": "Syndrome refers to a disease affecting the whole body",
-    "choices": ["True", "False"],
+    "question": "Which of the following is NOT found in large quantities in blood?",
+    "choices": ["Plasma", "Red blood cells", "Hormones", "Platelets"],
+    "correctIndex": 2,
+    "feedback": "Hormones are present in blood but typically in small concentrations."
+  },
+  {
+    "question": "How many chambers does the heart have?",
+    "choices": ["Two", "Three", "Four", "Five"],
+    "correctIndex": 2,
+    "feedback": "The heart has four chambers: two atria and two ventricles."
+  },
+  {
+    "question": "What is the pericardium?",
+    "choices": ["Inner lining of the heart", "Muscular layer of the heart", "Protective sac surrounding the heart", "Valve between chambers"],
+    "correctIndex": 2,
+    "feedback": "The pericardium is a protective sac that surrounds and cushions the heart."
+  },
+  {
+    "question": "Which layer of the heart is responsible for contraction?",
+    "choices": ["Endocardium", "Epicardium", "Myocardium", "Pericardium"],
+    "correctIndex": 2,
+    "feedback": "The myocardium is the muscular layer responsible for heart contractions."
+  },
+  {
+    "question": "What occurs during systole?",
+    "choices": ["Heart relaxes", "Heart fills with blood", "Heart contracts and pumps blood", "Valves close only"],
+    "correctIndex": 2,
+    "feedback": "Systole is the contraction phase when blood is pumped out of the heart."
+  },
+  {
+    "question": "What is considered a healthy adult blood pressure?",
+    "choices": ["140/90 mmHg", "130/85 mmHg", "120/80 mmHg", "100/60 mmHg"],
+    "correctIndex": 2,
+    "feedback": "Normal blood pressure is approximately 120/80 mmHg."
+  },
+  {
+    "question": "What is preload?",
+    "choices": ["Pressure in arteries during contraction", "Stretch of ventricles before contraction", "Resistance in blood vessels", "Heart rate before exercise"],
     "correctIndex": 1,
-    "feedback": "Syndrome referes to a collection of signs and symptoms associated with a specific disease process; Systemic describes a whole-body involvement."
+    "feedback": "Preload refers to the degree of ventricular stretch before contraction."
+  },
+  {
+    "question": "What does the Frank-Starling Law state?",
+    "choices": ["The heart beats at a constant rate", "Increased stretch leads to stronger contraction", "Blood pressure is always stable", "Veins control heart rate"],
+    "correctIndex": 1,
+    "feedback": "The Frank-Starling Law states that increased stretch results in stronger contraction."
+  },
+  {
+    "question": "Which is NOT a layer of blood vessels?",
+    "choices": ["Tunica intima", "Tunica media", "Tunica externa", "Tunica myocardium"],
+    "correctIndex": 3,
+    "feedback": "Tunica myocardium is part of the heart, not blood vessels."
+  },
+  {
+    "question": "What is a key feature of veins?",
+    "choices": ["Thick muscular walls", "Carry blood away from heart", "Contain valves", "High pressure flow"],
+    "correctIndex": 2,
+    "feedback": "Veins contain valves to prevent backflow of blood."
+  },
+  {
+    "question": "What is a function of the arterial system?",
+    "choices": ["Gas exchange", "Blood storage", "Regulating blood pressure", "Filtering toxins"],
+    "correctIndex": 2,
+    "feedback": "Arteries help regulate blood pressure through vasoconstriction and vasodilation."
+  },
+  {
+    "question": "Where does blood go after entering the right atrium?",
+    "choices": ["Left ventricle", "Pulmonary artery", "Right ventricle", "Aorta"],
+    "correctIndex": 2,
+    "feedback": "Blood flows from the right atrium into the right ventricle."
+  },
+  {
+    "question": "Where are cardiac control centers located?",
+    "choices": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Spinal cord"],
+    "correctIndex": 2,
+    "feedback": "The medulla oblongata regulates heart rate and blood pressure."
+  },
+  {
+    "question": "What is the correct electrical conduction pathway?",
+    "choices": ["AV → SA → Purkinje", "SA → AV → Bundle of His → Purkinje", "Purkinje → SA → AV", "Bundle → SA → AV"],
+    "correctIndex": 1,
+    "feedback": "The normal conduction pathway begins at the SA node and ends with Purkinje fibers."
+  },
+  {
+    "question": "What does the T wave represent on an EKG?",
+    "choices": ["Atrial contraction", "Ventricular contraction", "Ventricular repolarization", "Atrial repolarization"],
+    "correctIndex": 2,
+    "feedback": "The T wave represents ventricular repolarization (recovery phase)."
+  },
+  {
+    "question": "What helps regulate blood pressure in the short term?",
+    "choices": ["Kidneys", "Hormones only", "Baroreceptors and nervous system", "Bone marrow"],
+    "correctIndex": 2,
+    "feedback": "Baroreceptors and the autonomic nervous system regulate blood pressure quickly."
+  },
+  {
+    "question": "What is tachycardia?",
+    "choices": ["Heart rate below 60 bpm", "Heart rate above 100 bpm", "Irregular heartbeat only", "Normal heart rhythm"],
+    "correctIndex": 1,
+    "feedback": "Tachycardia is defined as a heart rate greater than 100 bpm."
+  },
+  {
+    "question": "What does diastolic pressure represent?",
+    "choices": ["Pressure during contraction", "Pressure during relaxation", "Maximum arterial pressure", "Venous pressure"],
+    "correctIndex": 1,
+    "feedback": "Diastolic pressure is the pressure when the heart is relaxed."
+  },
+  {
+    "question": "Recommended aerobic exercise frequency?",
+    "choices": ["Once per week", "1–2 times per month", "3–5 times per week", "Only during illness"],
+    "correctIndex": 2,
+    "feedback": "Aerobic exercise is recommended 3–5 times per week for cardiovascular health."
+  },
+  {
+    "question": "What change occurs in trained athletes?",
+    "choices": ["Increased resting heart rate", "Decreased stroke volume", "Enlarged, more efficient heart", "Reduced oxygen delivery"],
+    "correctIndex": 2,
+    "feedback": "Athletes develop a larger, more efficient heart with increased stroke volume."
+  },
+  {
+    "question": "What is common to all types of shock?",
+    "choices": ["High blood pressure", "Excess oxygen delivery", "Inadequate tissue perfusion", "Increased heart rate only"],
+    "correctIndex": 2,
+    "feedback": "All types of shock involve inadequate tissue perfusion and oxygen delivery."
   }
 ]
