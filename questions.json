@@ -132,7 +132,7 @@
     "feedback": "Diastolic pressure is the pressure when the heart is relaxed."
   },
   {
-    "question": "Recommended aerobic exercise frequency?",
+    "question": "How often should aerobic exercise be done to improve heart health?",
     "choices": ["Once per week", "1–2 times per month", "3–5 times per week", "Only during illness"],
     "correctIndex": 2,
     "feedback": "Aerobic exercise is recommended 3–5 times per week for cardiovascular health."
