@@ -1,152 +1,486 @@
 [
   {
-    "question": "What is a primary function of the cardiovascular system?",
-    "choices": ["Producing hormones only", "Transporting oxygen, nutrients, and wastes", "Breaking down food", "Storing calcium"],
+    "question": "What is the average blood volume in a healthy adult?",
+    "choices": [
+      "2–3 liters",
+      "4–6 liters",
+      "7–9 liters",
+      "10–12 liters"
+    ],
     "correctIndex": 1,
-    "feedback": "The cardiovascular system transports oxygen, nutrients, hormones, and wastes throughout the body."
+    "feedback": "A healthy adult typically has about 4–6 liters of blood, which is essential for maintaining blood pressure, oxygen delivery, and nutrient transport."
   },
   {
-    "question": "What is the role of the right side of the heart?",
-    "choices": ["Pumps oxygenated blood to the body", "Pumps deoxygenated blood to the lungs", "Regulates blood pressure", "Filters blood"],
+    "question": "Which formed element is primarily responsible for oxygen transport?",
+    "choices": [
+      "Platelets",
+      "Plasma proteins",
+      "Red blood cells",
+      "White blood cells"
+    ],
+    "correctIndex": 2,
+    "feedback": "Red blood cells transport oxygen using hemoglobin."
+  },
+  {
+    "question": "What is the primary function of capillaries?",
+    "choices": [
+      "Pump blood through the body",
+      "Exchange gases and nutrients with tissues",
+      "Prevent blood clotting",
+      "Regulate heart rhythm"
+    ],
     "correctIndex": 1,
-    "feedback": "The right side of the heart sends deoxygenated blood to the lungs for oxygenation."
+    "feedback": "Capillaries are thin-walled vessels where gases, nutrients, and wastes are exchanged between blood and tissues."
   },
   {
-    "question": "Which blood vessels contain the largest amount of circulating blood?",
-    "choices": ["Arteries", "Capillaries", "Veins", "Arterioles"],
-    "correctIndex": 2,
-    "feedback": "Veins act as blood reservoirs and hold the majority of blood volume."
-  },
-  {
-    "question": "What is systemic vascular resistance (SVR)?",
-    "choices": ["The volume of blood in the arteries", "The resistance blood encounters in systemic circulation", "The force of heart contraction", "The oxygen level in blood"],
+    "question": "Why are arteries able to withstand higher blood pressure than veins?",
+    "choices": [
+      "They contain valves",
+      "They have thicker elastic walls",
+      "They carry less blood",
+      "They are connected directly to capillaries"
+    ],
     "correctIndex": 1,
-    "feedback": "SVR refers to the resistance blood faces as it flows through systemic vessels."
+    "feedback": "Arteries have thick muscular and elastic walls that allow them to withstand and maintain high blood pressure."
   },
   {
-    "question": "Which of the following is NOT found in large quantities in blood?",
-    "choices": ["Plasma", "Red blood cells", "Hormones", "Platelets"],
-    "correctIndex": 2,
-    "feedback": "Hormones are present in blood but typically in small concentrations."
-  },
-  {
-    "question": "How many chambers does the heart have?",
-    "choices": ["Two", "Three", "Four", "Five"],
-    "correctIndex": 2,
-    "feedback": "The heart has four chambers: two atria and two ventricles."
-  },
-  {
-    "question": "What is the pericardium?",
-    "choices": ["Inner lining of the heart", "Muscular layer of the heart", "Protective sac surrounding the heart", "Valve between chambers"],
-    "correctIndex": 2,
-    "feedback": "The pericardium is a protective sac that surrounds and cushions the heart."
-  },
-  {
-    "question": "Which layer of the heart is responsible for contraction?",
-    "choices": ["Endocardium", "Epicardium", "Myocardium", "Pericardium"],
-    "correctIndex": 2,
-    "feedback": "The myocardium is the muscular layer responsible for heart contractions."
-  },
-  {
-    "question": "What occurs during systole?",
-    "choices": ["Heart relaxes", "Heart fills with blood", "Heart contracts and pumps blood", "Valves close only"],
-    "correctIndex": 2,
-    "feedback": "Systole is the contraction phase when blood is pumped out of the heart."
-  },
-  {
-    "question": "What is considered a healthy adult blood pressure?",
-    "choices": ["140/90 mmHg", "130/85 mmHg", "120/80 mmHg", "100/60 mmHg"],
-    "correctIndex": 2,
-    "feedback": "Normal blood pressure is approximately 120/80 mmHg."
-  },
-  {
-    "question": "What is preload?",
-    "choices": ["Pressure in arteries during contraction", "Stretch of ventricles before contraction", "Resistance in blood vessels", "Heart rate before exercise"],
+    "question": "Where is the sinoatrial (SA) node located?",
+    "choices": [
+      "Left ventricle",
+      "Right atrium",
+      "Interventricular septum",
+      "Aortic arch"
+    ],
     "correctIndex": 1,
-    "feedback": "Preload refers to the degree of ventricular stretch before contraction."
+    "feedback": "The SA node is located in the right atrium and acts as the heart’s natural pacemaker."
   },
   {
-    "question": "What does the Frank-Starling Law state?",
-    "choices": ["The heart beats at a constant rate", "Increased stretch leads to stronger contraction", "Blood pressure is always stable", "Veins control heart rate"],
-    "correctIndex": 1,
-    "feedback": "The Frank-Starling Law states that increased stretch results in stronger contraction."
-  },
-  {
-    "question": "Which is NOT a layer of blood vessels?",
-    "choices": ["Tunica intima", "Tunica media", "Tunica externa", "Tunica myocardium"],
+    "question": "What is the primary role of platelets?",
+    "choices": [
+      "Transport oxygen",
+      "Fight infection",
+      "Produce antibodies",
+      "Assist in blood clotting"
+    ],
     "correctIndex": 3,
-    "feedback": "Tunica myocardium is part of the heart, not blood vessels."
+    "feedback": "Platelets help form blood clots to prevent excessive bleeding."
   },
   {
-    "question": "What is a key feature of veins?",
-    "choices": ["Thick muscular walls", "Carry blood away from heart", "Contain valves", "High pressure flow"],
-    "correctIndex": 2,
-    "feedback": "Veins contain valves to prevent backflow of blood."
-  },
-  {
-    "question": "What is a function of the arterial system?",
-    "choices": ["Gas exchange", "Blood storage", "Regulating blood pressure", "Filtering toxins"],
-    "correctIndex": 2,
-    "feedback": "Arteries help regulate blood pressure through vasoconstriction and vasodilation."
-  },
-  {
-    "question": "Where does blood go after entering the right atrium?",
-    "choices": ["Left ventricle", "Pulmonary artery", "Right ventricle", "Aorta"],
-    "correctIndex": 2,
-    "feedback": "Blood flows from the right atrium into the right ventricle."
-  },
-  {
-    "question": "Where are cardiac control centers located?",
-    "choices": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Spinal cord"],
-    "correctIndex": 2,
-    "feedback": "The medulla oblongata regulates heart rate and blood pressure."
-  },
-  {
-    "question": "What is the correct electrical conduction pathway?",
-    "choices": ["AV → SA → Purkinje", "SA → AV → Bundle of His → Purkinje", "Purkinje → SA → AV", "Bundle → SA → AV"],
+    "question": "What is the main function of red bone marrow?",
+    "choices": [
+      "Store calcium",
+      "Produce blood cells",
+      "Filter blood",
+      "Destroy pathogens"
+    ],
     "correctIndex": 1,
-    "feedback": "The normal conduction pathway begins at the SA node and ends with Purkinje fibers."
+    "feedback": "Red bone marrow is responsible for hematopoiesis, the production of blood cells."
   },
   {
-    "question": "What does the T wave represent on an EKG?",
-    "choices": ["Atrial contraction", "Ventricular contraction", "Ventricular repolarization", "Atrial repolarization"],
+    "question": "How does the lack of a nucleus benefit red blood cells?",
+    "choices": [
+      "Allows cell division",
+      "Improves immune defense",
+      "Creates more space for hemoglobin",
+      "Increases clotting ability"
+    ],
     "correctIndex": 2,
-    "feedback": "The T wave represents ventricular repolarization (recovery phase)."
+    "feedback": "The absence of a nucleus provides more room for hemoglobin, improving oxygen transport."
   },
   {
-    "question": "What helps regulate blood pressure in the short term?",
-    "choices": ["Kidneys", "Hormones only", "Baroreceptors and nervous system", "Bone marrow"],
+    "question": "Where is the heart primarily located?",
+    "choices": [
+      "Abdominal cavity",
+      "Left upper abdomen",
+      "Mediastinum of the thoracic cavity",
+      "Right pleural cavity"
+    ],
     "correctIndex": 2,
-    "feedback": "Baroreceptors and the autonomic nervous system regulate blood pressure quickly."
+    "feedback": "The heart is located in the mediastinum between the lungs in the thoracic cavity."
   },
   {
-    "question": "What is tachycardia?",
-    "choices": ["Heart rate below 60 bpm", "Heart rate above 100 bpm", "Irregular heartbeat only", "Normal heart rhythm"],
+    "question": "What structure separates the left and right sides of the heart?",
+    "choices": [
+      "Pericardium",
+      "Septum",
+      "Chordae tendineae",
+      "Papillary muscles"
+    ],
     "correctIndex": 1,
-    "feedback": "Tachycardia is defined as a heart rate greater than 100 bpm."
+    "feedback": "The septum separates the left and right sides of the heart."
   },
   {
-    "question": "What does diastolic pressure represent?",
-    "choices": ["Pressure during contraction", "Pressure during relaxation", "Maximum arterial pressure", "Venous pressure"],
+    "question": "What is the function of the atria?",
+    "choices": [
+      "Pump blood out of the heart",
+      "Receive blood returning to the heart",
+      "Regulate blood pressure",
+      "Generate blood cells"
+    ],
     "correctIndex": 1,
-    "feedback": "Diastolic pressure is the pressure when the heart is relaxed."
+    "feedback": "The atria are receiving chambers that collect blood returning to the heart."
   },
   {
-    "question": "How often should aerobic exercise be done to improve heart health?",
-    "choices": ["Once per week", "1–2 times per month", "3–5 times per week", "Only during illness"],
+    "question": "Which statement best describes veins?",
+    "choices": [
+      "Carry blood away from the heart under high pressure",
+      "Contain thick muscular walls",
+      "Often contain valves to prevent backflow",
+      "Have no role in blood return"
+    ],
     "correctIndex": 2,
-    "feedback": "Aerobic exercise is recommended 3–5 times per week for cardiovascular health."
+    "feedback": "Veins often contain valves that help prevent the backflow of blood."
   },
   {
-    "question": "What change occurs in trained athletes?",
-    "choices": ["Increased resting heart rate", "Decreased stroke volume", "Enlarged, more efficient heart", "Reduced oxygen delivery"],
-    "correctIndex": 2,
-    "feedback": "Athletes develop a larger, more efficient heart with increased stroke volume."
+    "question": "What are the two main parts of the pericardium?",
+    "choices": [
+      "Fibrous and serous pericardium",
+      "Epicardium and myocardium",
+      "Parietal and visceral myocardium",
+      "Atria and ventricles"
+    ],
+    "correctIndex": 0,
+    "feedback": "The pericardium consists of the fibrous pericardium and the serous pericardium."
   },
   {
-    "question": "What is common to all types of shock?",
-    "choices": ["High blood pressure", "Excess oxygen delivery", "Inadequate tissue perfusion", "Increased heart rate only"],
+    "question": "Which layer of the heart wall is primarily responsible for contraction?",
+    "choices": [
+      "Endocardium",
+      "Epicardium",
+      "Myocardium",
+      "Pericardium"
+    ],
     "correctIndex": 2,
-    "feedback": "All types of shock involve inadequate tissue perfusion and oxygen delivery."
+    "feedback": "The myocardium is the thick muscular layer responsible for heart contractions."
+  },
+  {
+    "question": "What is the largest component of blood plasma?",
+    "choices": [
+      "Proteins",
+      "Electrolytes",
+      "Water",
+      "Hormones"
+    ],
+    "correctIndex": 2,
+    "feedback": "Plasma is mostly water, making up about 90% of its composition."
+  },
+  {
+    "question": "What is the primary role of systemic circulation?",
+    "choices": [
+      "Supply blood to the lungs",
+      "Exchange air in the alveoli",
+      "Deliver oxygen and nutrients to body tissues",
+      "Generate heart rhythm"
+    ],
+    "correctIndex": 2,
+    "feedback": "Systemic circulation delivers oxygenated blood and nutrients to body tissues."
+  },
+  {
+    "question": "Which process is part of hemostasis?",
+    "choices": [
+      "Hemoglobin synthesis",
+      "Platelet plug formation",
+      "Gas exchange",
+      "Cardiac conduction"
+    ],
+    "correctIndex": 1,
+    "feedback": "Hemostasis involves vascular spasm, platelet plug formation, and coagulation."
+  },
+  {
+    "question": "How does systemic circulation support tissue function?",
+    "choices": [
+      "By producing blood cells",
+      "By removing bone marrow",
+      "By exchanging nutrients and gases with tissues",
+      "By regulating digestion"
+    ],
+    "correctIndex": 2,
+    "feedback": "Systemic circulation exchanges oxygen, nutrients, and wastes between blood and tissues."
+  },
+  {
+    "question": "What provides the heart with its inherent rhythm?",
+    "choices": [
+      "Bundle branches",
+      "Atrioventricular node",
+      "Purkinje fibers",
+      "Sinoatrial node"
+    ],
+    "correctIndex": 3,
+    "feedback": "The sinoatrial node initiates electrical impulses that set the heart rate."
+  },
+  {
+    "question": "Heart sounds are mainly caused by:",
+    "choices": [
+      "Blood entering capillaries",
+      "Opening of arteries",
+      "Closing of heart valves",
+      "Contraction of veins"
+    ],
+    "correctIndex": 2,
+    "feedback": "The “lub-dub” heart sounds are primarily caused by valve closure."
+  },
+  {
+    "question": "What commonly triggers blood clot formation?",
+    "choices": [
+      "Low oxygen levels only",
+      "Damage to blood vessels",
+      "Increased heart sounds",
+      "Reduced plasma proteins"
+    ],
+    "correctIndex": 1,
+    "feedback": "Blood vessel injury activates platelets and clotting factors."
+  },
+  {
+    "question": "Which chamber pumps blood to the systemic circulation?",
+    "choices": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "correctIndex": 3,
+    "feedback": "The left ventricle pumps oxygenated blood into the systemic circulation."
+  },
+  {
+    "question": "What is the role of coronary arteries?",
+    "choices": [
+      "Supply blood to the lungs",
+      "Supply blood to the myocardium",
+      "Return blood to the liver",
+      "Filter blood plasma"
+    ],
+    "correctIndex": 1,
+    "feedback": "Coronary arteries supply oxygenated blood to the heart muscle."
+  },
+  {
+    "question": "In which blood vessels is blood velocity generally the slowest?",
+    "choices": [
+      "Arteries",
+      "Arterioles",
+      "Capillaries",
+      "Veins"
+    ],
+    "correctIndex": 2,
+    "feedback": "Blood velocity is slowest in capillaries to allow efficient exchange."
+  },
+  {
+    "question": "What happens when the atria contract?",
+    "choices": [
+      "Semilunar valves close",
+      "Blood is pushed into the ventricles",
+      "Blood exits the aorta",
+      "The ventricles relax completely"
+    ],
+    "correctIndex": 1,
+    "feedback": "Atrial contraction pushes blood through the atrioventricular valves into the ventricles."
+  },
+  {
+    "question": "How does blood contribute to body protection?",
+    "choices": [
+      "Only through oxygen transport",
+      "By regulating digestion",
+      "Through immune defense and clotting",
+      "Only through nutrient transport"
+    ],
+    "correctIndex": 2,
+    "feedback": "Blood protects the body through immune responses and clot formation."
+  },
+  {
+    "question": "What hormone stimulates red blood cell production?",
+    "choices": [
+      "Insulin",
+      "Erythropoietin",
+      "Thyroxine",
+      "Melatonin"
+    ],
+    "correctIndex": 1,
+    "feedback": "Erythropoietin (EPO) stimulates red blood cell production in the bone marrow."
+  },
+  {
+    "question": "Why is iron important in hemoglobin?",
+    "choices": [
+      "It forms platelets",
+      "It transports carbon dioxide",
+      "It binds oxygen molecules",
+      "It thickens plasma"
+    ],
+    "correctIndex": 2,
+    "feedback": "Iron in hemoglobin binds oxygen for transport throughout the body."
+  },
+  {
+    "question": "What is the primary function of the myocardium?",
+    "choices": [
+      "Produce hormones",
+      "Pump blood through contraction",
+      "Filter blood",
+      "Generate plasma proteins"
+    ],
+    "correctIndex": 1,
+    "feedback": "The myocardium contracts to pump blood through the circulatory system."
+  },
+  {
+    "question": "What typically happens to blood pressure when standing quickly from a prone position?",
+    "choices": [
+      "It permanently increases",
+      "It briefly drops before compensation occurs",
+      "It remains unchanged",
+      "It stops completely"
+    ],
+    "correctIndex": 1,
+    "feedback": "Standing quickly can temporarily reduce blood pressure until compensatory mechanisms respond."
+  },
+  {
+    "question": "What is the function of the bicuspid (mitral) valve?",
+    "choices": [
+      "Prevent blood from entering the aorta",
+      "Prevent backflow from the left ventricle to the left atrium",
+      "Separate the ventricles",
+      "Regulate blood flow into the pulmonary artery"
+    ],
+    "correctIndex": 1,
+    "feedback": "The bicuspid (mitral) valve prevents blood from flowing backward into the left atrium during ventricular contraction."
+  },
+  {
+    "question": "What does cardiac reserve refer to?",
+    "choices": [
+      "The amount of blood stored in veins",
+      "The difference between resting and maximum cardiac output",
+      "The volume of blood in the atria",
+      "The heart’s ability to stop clotting"
+    ],
+    "correctIndex": 1,
+    "feedback": "Cardiac reserve is the difference between resting cardiac output and the maximum output the heart can achieve during activity."
+  },
+  {
+    "question": "What is the role of elastic fibres in arteries?",
+    "choices": [
+      "Reduce oxygen transport",
+      "Prevent clotting",
+      "Allow arteries to stretch and recoil with pressure changes",
+      "Slow blood flow in capillaries"
+    ],
+    "correctIndex": 2,
+    "feedback": "Elastic fibres allow arteries to expand and recoil, helping maintain blood pressure and continuous blood flow."
+  },
+  {
+    "question": "What does the Frank-Starling Law describe?",
+    "choices": [
+      "Blood pressure regulation by veins",
+      "The relationship between ventricular filling and contraction strength",
+      "The production of platelets",
+      "The effect of oxygen on hemoglobin"
+    ],
+    "correctIndex": 1,
+    "feedback": "The Frank-Starling Law states that increased ventricular filling stretches cardiac muscle and increases contraction strength."
+  },
+  {
+    "question": "How can increased capillary permeability lead to edema?",
+    "choices": [
+      "By reducing blood viscosity",
+      "By increasing red blood cell production",
+      "By allowing excess fluid to leak into tissues",
+      "By decreasing plasma proteins"
+    ],
+    "correctIndex": 2,
+    "feedback": "Increased capillary permeability allows more fluid to move into tissues, causing swelling known as edema."
+  },
+  {
+    "question": "Which factor commonly contributes to hypertension?",
+    "choices": [
+      "Regular exercise",
+      "Low sodium intake",
+      "Chronic stress and arterial narrowing",
+      "Reduced blood volume"
+    ],
+    "correctIndex": 2,
+    "feedback": "Hypertension can result from factors such as stress, poor diet, obesity, and narrowed arteries."
+  },
+  {
+    "question": "What is a major risk associated with atherosclerosis?",
+    "choices": [
+      "Improved circulation",
+      "Increased oxygen delivery",
+      "Formation of arterial plaques that restrict blood flow",
+      "Reduced blood clotting"
+    ],
+    "correctIndex": 2,
+    "feedback": "Atherosclerosis involves plaque buildup in arteries, increasing the risk of heart attack and stroke."
+  },
+  {
+    "question": "Which symptom is commonly associated with Raynaud syndrome?",
+    "choices": [
+      "Persistent chest pain",
+      "Swelling of lymph nodes",
+      "Reduced blood flow causing pale or blue fingers",
+      "Excessive blood clotting"
+    ],
+    "correctIndex": 2,
+    "feedback": "Raynaud syndrome causes temporary narrowing of blood vessels, often leading to pale or bluish fingers in response to cold or stress."
+  },
+  {
+    "question": "What is a serious risk associated with deep vein thrombosis (DVT)?",
+    "choices": [
+      "Pulmonary embolism",
+      "Kidney stones",
+      "Bone fractures",
+      "Asthma attacks"
+    ],
+    "correctIndex": 0,
+    "feedback": "A clot from a deep vein thrombosis can travel to the lungs and cause a pulmonary embolism."
+  },
+  {
+    "question": "How can cardiovascular disease affect daily life?",
+    "choices": [
+      "Only by increasing appetite",
+      "By reducing endurance and limiting physical activity",
+      "By improving circulation efficiency",
+      "Only by affecting digestion"
+    ],
+    "correctIndex": 1,
+    "feedback": "Cardiovascular diseases can reduce energy levels, endurance, and tolerance for daily activities."
+  },
+  {
+    "question": "What role do baroreceptors play in cardiovascular regulation?",
+    "choices": [
+      "Produce blood cells",
+      "Detect changes in blood pressure",
+      "Generate heart sounds",
+      "Increase blood clotting"
+    ],
+    "correctIndex": 1,
+    "feedback": "Baroreceptors monitor blood pressure and help regulate heart rate and vessel diameter through the autonomic nervous system."
+  },
+  {
+    "question": "What is the function of the cardiovascular centre in the brain?",
+    "choices": [
+      "Filter blood plasma",
+      "Produce hormones for clotting",
+      "Regulate heart rate and blood vessel diameter",
+      "Generate red blood cells"
+    ],
+    "correctIndex": 2,
+    "feedback": "The cardiovascular centre in the medulla oblongata helps regulate heart rate, cardiac output, and blood vessel diameter."
+  },
+  {
+    "question": "What is one major cardiovascular benefit of regular exercise?",
+    "choices": [
+      "Increased resting blood pressure",
+      "Reduced cardiovascular fitness",
+      "Improved circulation and lower blood pressure",
+      "Decreased oxygen delivery"
+    ],
+    "correctIndex": 2,
+    "feedback": "Regular exercise improves cardiovascular efficiency, circulation, and can help lower blood pressure."
+  },
+  {
+    "question": "What is generally recommended for improving cardiovascular fitness?",
+    "choices": [
+      "Aerobic exercise several times per week",
+      "Avoiding all physical activity",
+      "Only strength training once monthly",
+      "Sleeping immediately after meals"
+    ],
+    "correctIndex": 0,
+    "feedback": "Regular aerobic exercise performed multiple times per week is recommended for improving cardiovascular fitness and endurance."
   }
 ]
